@@ -1,3 +1,8 @@
+### Olá! Prazer, Fernanda Fernandes
+ 
+  - 🌱 Estudante no curso de Análise e Desenvolvimento de Sistemas
+  - 📫 E-mail para contato: fernanda.nac09@gmail.com
+
 <div>
 <a href="https://github.com/Fernandeezz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandeezz&layout=compact&langs_count=7&theme=dracula"/>
