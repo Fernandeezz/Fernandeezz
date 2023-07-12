@@ -9,15 +9,18 @@
 <div style="display: inline"><br>
   <h2 align="center">Mais Sobre Mim:</h2><br>
   
-  <img align="right" alt="coragem-gif" height=165px style="border-radius:60px;" src="https://media1.tenor.com/images/8a48c3de52c80eadb7cfd721d87af885/tenor.gif?itemid=6074749">
+  <img align="right" alt="coragem" height=165px style="border-radius:60px;" src="https://media1.tenor.com/images/8a48c3de52c80eadb7cfd721d87af885/tenor.gif?itemid=6074749">
 
  - 📚 Estudante de Análise e Desenvolvimento de Sistemas e Inglês;
- - 🌱 Atualmente aprendendo SQL;
+ - 🌱 Atualmente Aprendendo SQL;
+  
+ - <img align="center" alt="fernanda-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="fernanda-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="fernanda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fernanda-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fernanda-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fernanda-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
   <div align="right">
-     <a href ="fernanda.nac09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/fernanda-fernandes-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:fernanda.nac09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/fernanda-fernandes-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  </div>
+  
+</div>
 <div align="center">
   <br><h3 align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fernandeezz}/count.svg" /></p> 
