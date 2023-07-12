@@ -7,7 +7,7 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandeezz&layout=compact)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fernandeezz.Fernandeezz)
+![Estatísticas do Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Fernandeezz)
 
 
 
