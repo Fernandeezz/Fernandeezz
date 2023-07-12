@@ -10,7 +10,7 @@
      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandeezz&layout=compact&langs_count=16&theme=midnight-purple"/>
  
  </div>
-<div align='center'>
+
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Fernandeezz)
-</div>
+
 
