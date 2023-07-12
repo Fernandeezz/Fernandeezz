@@ -7,7 +7,7 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandeezz&layout=compact)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fernandeezz)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Fernandeezz)
 
 
 
