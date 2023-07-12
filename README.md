@@ -7,7 +7,7 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandeezz&layout=compact)
 
-![Estatísticas do Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Fernandeezz)
+![Atividade do GitHub](https://activity-graph.herokuapp.com/graph?username=Fernandeezz&theme=react-dark)
 
 
 
