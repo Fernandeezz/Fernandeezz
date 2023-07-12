@@ -1,6 +1,6 @@
 ### Olá! Prazer, Fernanda Fernandes
  
-  - 🌱 Estudante no curso de Análise e Desenvolvimento de Sistemas
+  - 🌱 Estudante do curso de Análise e Desenvolvimento de Sistemas
   - 📫 E-mail para contato: fernanda.nac09@gmail.com
 
 <div align="center">
