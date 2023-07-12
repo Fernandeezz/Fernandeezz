@@ -10,4 +10,4 @@
     </a>
   </div>
 
-   ![Snake animation](https://github.com/GustavoSantosRodrigues/GustavoSantosRodrigues/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Fernandeezz/Fernandeezz/blob/output/github-contribution-grid-snake.svg)
