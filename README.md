@@ -11,6 +11,9 @@
  
  </div>
 
-![Gráfico de atividade do GitHub](https://activity-graph.herokuapp.com/graph?username=Fernandeezz&bg_color=ffffff&color=000000&line=000000&point=00FF00)
+<div align="center">
+  <br><h3 align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fernandeezz}/count.svg" /></p> 
+</div>
 
 
