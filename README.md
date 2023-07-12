@@ -10,3 +10,4 @@
     </a>
   </div>
 
+![](https://raw.githubusercontent.com/Fernandeezz/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
