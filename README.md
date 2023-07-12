@@ -11,6 +11,6 @@
  
  </div>
 
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Fernandeezz)
+![Gráfico de atividade do GitHub](https://activity-graph.herokuapp.com/graph?username=Fernandeezz&bg_color=ffffff&color=000000&line=000000&point=00FF00)
 
 
