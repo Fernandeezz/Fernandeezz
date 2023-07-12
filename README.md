@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandeezz&layout=compact&hide_border=true&title_color=ea8364&text_color=ea8364&bg_color=0d1117" />
 </div>
 
-div style="display: inline"><br>
+<div style="display: inline"><br>
   <h2 align="center">Mais Sobre Mim:</h2><br>
   
   <img align="right" alt="coragem-gif" height=165px style="border-radius:60px;" src="https://media1.tenor.com/images/8a48c3de52c80eadb7cfd721d87af885/tenor.gif?itemid=6074749">
@@ -16,6 +16,7 @@ div style="display: inline"><br>
 
   <div align="right">
      <a href = "mailto:fernanda.nac09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/fernanda-fernandes-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   </div>
 <div align="center">
   <br><h3 align="centre"><b>Visitors Count</b></p>  
