@@ -12,7 +12,7 @@
   <img align="right" alt="coragem" height=165px style="border-radius:60px;" src="https://media1.tenor.com/images/8a48c3de52c80eadb7cfd721d87af885/tenor.gif?itemid=6074749">
 
  - 📚 Estudante de Análise e Desenvolvimento de Sistemas e Inglês;
- - 🌴 Desenvolvendo um Projeto sobre Personagens;
+ - 🌴 Desenvolvendo um Projeto sobre Pesquisa e Central de Enchentes (P.C.E);
  - 🌱 Atualmente Aprendendo SQL;
   
  - <img align="center" alt="fernanda-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="fernanda-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="fernanda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fernanda-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fernanda-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fernanda-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
