@@ -22,7 +22,7 @@
   
 </div>
 <div align="center">
-  <br><h3 align="centre"><b>Visitors Count</b></p>  
+  <br><h3 align="centre"><b>Número de Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fernandeezz}/count.svg" /></p> 
 </div>
 
