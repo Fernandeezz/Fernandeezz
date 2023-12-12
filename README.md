@@ -12,7 +12,7 @@
 
  - 📚 Estudante de Análise e Desenvolvimento de Sistemas e Inglês;
  - 🌴 Desenvolvendo um Projeto sobre Pesquisa e Central de Enchentes (P.C.E);
- - 🌱 Atualmente Aprendendo SQL;
+ - 🌱 Atualmente Aprendendo Laravel;
   
  - <img align="center" alt="fernanda-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="fernanda-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="fernanda-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="fernanda-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="fernanda-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="fernanda-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
